@@ -1,4 +1,4 @@
-package Day1;
+
 /*  
 1768. Merge Strings Alternately
 Easy
